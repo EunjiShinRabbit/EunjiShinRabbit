@@ -59,5 +59,6 @@
   <br>
 </div>
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer&text=Thank%20You!&fontSize=60"/>	
+	<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer&text=Thank%20You!&fontSize=60"/>
+	
 </div>
